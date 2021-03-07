@@ -81,4 +81,6 @@ Wrap them in your own script with the path parameters that are good your you.
 - [Installing GuitarPro6 on 64 bit Ubuntu 16.04 (and other Linux distros) [Tutorial]](https://www.reddit.com/r/GuitarPro/comments/4vqlpc/installing_guitarpro6_on_64_bit_ubuntu_1604_and/)
 - [Cannot connect to X server in a Docker container](https://groups.google.com/forum/#!topic/etetoolkit/4SrZk5fRtCM)
 - [Dockerized Spotify](https://github.com/terlar/docker-spotify-pulseaudio) for an example of working pulseaudio link in Docker container
+- [Guitar Pro Trusty Schroot i386](http://moggen.org/201403132359/how-to-install-guitar-pro-6-on-a-64bit-ubuntu-1404)
+- [Removing gksu dependency](https://xmoexdev.com/wordpress/install-guitar-pro-debian-8-64bit/)
 
